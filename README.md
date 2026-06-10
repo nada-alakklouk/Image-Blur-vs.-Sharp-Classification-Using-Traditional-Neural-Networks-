@@ -8,9 +8,10 @@ A smart, high-efficiency solution for classifying images into **Blurred** or **S
 
 All project documentation, analysis, and presentation materials are fully integrated. You can access them directly via the links below:
 
-* 📄 **[View Full Project Documentation (PDF)](./Project%20documentation%20DIP.pdf)** – Contains the scientific methodology, feature extraction details, and statistical analysis.
-* 📊 **[Download Project Presentation (PowerPoint)](./PI%20project.pptx)** – The visual slide deck used to explain the project concept, results, and future recommendations.
-* 🗂️ **[Download Demo Files (Zip)](./demo.zip)** – Contains supplementary files for testing and demonstration.
+* 📄 **[View Full Project Documentation (PDF)](./Project%20documentation%20DIP.pdf)**
+* 📊 **[Download Project Presentation (PowerPoint)](./PI%20project%20%281%29.pptx)**
+* 🗂️ **[Download Demo Files (Zip)](./demo.zip)**
+
 
 ---
 
