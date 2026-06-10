@@ -42,4 +42,4 @@ All project documentation, analysis, and presentation materials are fully integr
 
 ## 👤 Developed by:
 * **Nada Alaklook** and my team **aya ,salma**
-* 🔗 [Connect with me on LinkedIn](https://linkedin.com/in/nada-alaklook-725049252)
+* 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/nada%20alakluk-725049252)
