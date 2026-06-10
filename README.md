@@ -8,10 +8,9 @@ A smart, high-efficiency solution for classifying images into **Blurred** or **S
 
 All project documentation, analysis, and presentation materials are fully integrated. You can download and access them directly via the links below:
 
-* 📄 **[Download Full Project Documentation (PDF)](./Project%20documentation%20DIP.pdf?raw=true)**
-* 📊 **[Download Project Presentation (PowerPoint)](./PI%20project%20%281%29.pptx?raw=true)**
-* 🗂️ **[Download Demo Files (Zip)](./demo.zip?raw=true)**
-
+* 📄 **[Download Full Project Documentation (PDF)](https://raw.githubusercontent.com/nadaalaklook2004/Image-Blur-vs.-Sharp-Classification-Using-Traditional-Neural-Networks-/main/Project%20documentation%20DIP.pdf)**
+* 📊 **[Download Project Presentation (PowerPoint)](https://raw.githubusercontent.com/nadaalaklook2004/Image-Blur-vs.-Sharp-Classification-Using-Traditional-Neural-Networks-/main/PI%20project%20%281%29.pptx)**
+* 🗂️ **[Download Demo Files (Zip)](https://raw.githubusercontent.com/nadaalaklook2004/Image-Blur-vs.-Sharp-Classification-Using-Traditional-Neural-Networks-/main/demo.zip)**
 
 ---
 
